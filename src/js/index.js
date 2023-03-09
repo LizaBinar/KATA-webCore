@@ -1,3 +1,16 @@
 import '../scss/style.scss'
 
-console.log('Works!')
+import './servicesExpand.js'
+import './repairsExpand.js'
+import './servicesSwiper.js'
+import './repairsSwiper.js'
+import './pricesSwiper.js'
+import './showMenu.js'
+// import './hideMenu.js'
+// import './orderCallHide.js'
+import './orderCallShow.js'
+import './feedbackShow.js'
+// import './feedbackHide.js'
+import './aside.js'
+import './glass.js'
+
